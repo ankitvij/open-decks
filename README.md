@@ -1,5 +1,7 @@
 # Open Decks
 
+[![tests](https://github.com/ankitvij/open-decks/actions/workflows/tests.yml/badge.svg)](https://github.com/ankitvij/open-decks/actions/workflows/tests.yml)
+
 Slot booking for open-decks DJ nights. A host publishes a night with a fixed number of equally long slots. DJs pick a slot without creating an account. When the night is full, new DJs go onto a waitlist. When someone cancels, the first DJ on the waitlist moves up automatically and gets an email.
 
 ![Lineup with a full night and the waitlist form](docs/screenshots/3-waitlist.png)
